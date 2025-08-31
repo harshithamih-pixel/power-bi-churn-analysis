@@ -1,9 +1,7 @@
 # power-bi-churn-analysis
 /dataset               # Raw Excel data files
 /report                # PDF portfolio report
-Below is a comprehensive README draft for a GitHub repository based on the provided screenshots and churn analysis dashboard. This markdown text is fully suitable for copy-pasting into a GitHub README file.
 
-***
 
 # Telecom Churn Analysis Dashboard
 
