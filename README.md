@@ -1,6 +1,6 @@
 # power-bi-churn-analysis
-/dataset               # Raw Excel data files
-/report                # PDF portfolio report
+1)dataset               :Raw Excel data files
+2)report                 :PDF portfolio report
 
 
 # Telecom Churn Analysis Dashboard
