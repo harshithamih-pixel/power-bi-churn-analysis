@@ -1,5 +1,5 @@
 # power-bi-churn-analysis
-1)dataset               :Raw Excel data files
+1)dataset               :Raw Excel data files cleand on my sql
 2)report                 :PDF portfolio report
 
 
